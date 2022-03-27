@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 097a1aac-2e0f-5b70-8b49-dbf27cb44f3b
 resourcetype: Document
 title: briggswillis.pdf
 uid: 98332813-2e0f-2ffb-24b4-078ef041173c

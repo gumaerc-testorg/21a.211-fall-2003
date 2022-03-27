@@ -9,6 +9,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 097a1aac-2e0f-5b70-8b49-dbf27cb44f3b
 resourcetype: Document
 title: braudetelegram.pdf
 uid: c730f342-0db9-a07b-0fdb-ecfcde78df05

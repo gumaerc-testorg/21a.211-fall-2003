@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 097a1aac-2e0f-5b70-8b49-dbf27cb44f3b
 resourcetype: Document
 title: spacealien.pdf
 uid: a49f229c-90b1-9a6c-f107-3b6cd1b8a7bd

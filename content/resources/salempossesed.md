@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 097a1aac-2e0f-5b70-8b49-dbf27cb44f3b
 resourcetype: Document
 title: salempossesed.pdf
 uid: f5beb323-d728-a91b-9a33-515d8a99c60f

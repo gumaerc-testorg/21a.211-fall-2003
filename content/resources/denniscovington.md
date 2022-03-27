@@ -9,6 +9,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 097a1aac-2e0f-5b70-8b49-dbf27cb44f3b
 resourcetype: Document
 title: denniscovington.pdf
 uid: e3b5a415-7353-2324-493c-4ba3a17bce86
