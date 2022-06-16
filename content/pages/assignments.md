@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the assignments for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -27,7 +28,7 @@ Assignments
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Short Essay on Pentacostalist Snake Handlers ([PDF]({{< baseurl >}}/resources/918))
+Short Essay on Pentacostalist Snake Handlers ({{% resource_link 6f644831-85b2-7d70-c09a-4af89d5140fe "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +37,7 @@ Short Essay on Pentacostalist Snake Handlers ([PDF]({{< baseurl >}}/resources/91
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Essay on Spirit Possession ([PDF]({{< baseurl >}}/resources/1021))
+Essay on Spirit Possession ({{% resource_link e99f4aa8-6150-9f3e-6ae9-4fd17ad437a3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +46,7 @@ Essay on Spirit Possession ([PDF]({{< baseurl >}}/resources/1021))
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Witchcraft Theory Assignment, Written Report ([PDF]({{< baseurl >}}/resources/1104))
+Witchcraft Theory Assignment, Written Report ({{% resource_link b632ab63-33fe-a758-af06-78449f698beb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +55,7 @@ Witchcraft Theory Assignment, Written Report ([PDF]({{< baseurl >}}/resources/11
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Essay on European Witch Hunt and Salem Trials ([PDF]({{< baseurl >}}/resources/1125))
+Essay on European Witch Hunt and Salem Trials ({{% resource_link 8c273333-b29e-9f91-f410-7ae4b67bdfb0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +64,7 @@ Essay on European Witch Hunt and Salem Trials ([PDF]({{< baseurl >}}/resources/1
 23
 {{< tdclose >}}
 {{< tdopen >}}
-Comparative Essay ([PDF]({{< baseurl >}}/resources/1209))
+Comparative Essay ({{% resource_link f4935241-6579-69f4-a15a-b54cc8982bbe "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
