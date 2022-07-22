@@ -6,6 +6,7 @@ description: 'Study Materials: Study Questions on Spiritualism
 file: /courses/21a-211-magic-witchcraft-and-the-spirit-world-fall-2003/c730f3420db9a07b0fdbecfcde78df05_braudetelegram.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -16,4 +17,3 @@ uid: c730f342-0db9-a07b-0fdb-ecfcde78df05
 ---
 Study Materials: Study Questions on Spiritualism
 Braude's Radical Spirits & "Telegrams from the Dead"
-
