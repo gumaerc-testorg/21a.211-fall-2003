@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 2501eeac-5f62-6503-466b-96a45e3bf5aa
 ---
@@ -40,7 +43,7 @@ Videos and Discussion, Spirit Possession
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Film, _The Holy Ghost people_ ([PDF]({{< baseurl >}}/resources/denniscovington))
+Film, _The Holy Ghost people_ ({{% resource_link e3b5a415-7353-2324-493c-4ba3a17bce86 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +52,7 @@ Film, _The Holy Ghost people_ ([PDF]({{< baseurl >}}/resources/denniscovington))
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Discuss Film and Covington Reading ([PDF]({{< baseurl >}}/resources/denniscovington))
+Discuss Film and Covington Reading ({{% resource_link e3b5a415-7353-2324-493c-4ba3a17bce86 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +70,7 @@ Film, _Secrets of the Psychics_
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Film, _Telegrams from the Dead_ ([PDF]({{< baseurl >}}/resources/braudetelegram))
+Film, _Telegrams from the Dead_ ({{% resource_link c730f342-0db9-a07b-0fdb-ecfcde78df05 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,7 +97,7 @@ Divination and Magic
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Discuss Visionaries ([PDF]({{< baseurl >}}/resources/christianvisionaries))
+Discuss Visionaries ({{% resource_link fb2fda5f-3295-e5ae-5928-54bbe5e51f58 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -198,7 +201,7 @@ _Three Sovereigns_, part II
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Visit Salem Village (Danvers) ([PDF]({{< baseurl >}}/resources/salempossesed))
+Visit Salem Village (Danvers) ({{% resource_link f5beb323-d728-a91b-9a33-515d8a99c60f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -237,7 +240,7 @@ Class Reports
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Film on Space Alien Possession ([PDF]({{< baseurl >}}/resources/spacealien))
+Film on Space Alien Possession ({{% resource_link a49f229c-90b1-9a6c-f107-3b6cd1b8a7bd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -246,7 +249,7 @@ Film on Space Alien Possession ([PDF]({{< baseurl >}}/resources/spacealien))
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Discuss Space Aliens, Split Personality ([PDF]({{< baseurl >}}/resources/spacealien))
+Discuss Space Aliens, Split Personality ({{% resource_link a49f229c-90b1-9a6c-f107-3b6cd1b8a7bd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
