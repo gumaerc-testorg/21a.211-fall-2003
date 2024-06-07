@@ -4,6 +4,7 @@ description: 'Study Materials: Dennis Covington, Salvation On Sand Mountain
 
   Film "The Holy Ghost People"'
 file: /courses/21a-211-magic-witchcraft-and-the-spirit-world-fall-2003/e3b5a41573532324493c4ba3a17bce86_denniscovington.pdf
+file_size: 86158
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
