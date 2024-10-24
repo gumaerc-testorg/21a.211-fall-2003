@@ -3,7 +3,7 @@ content_type: resource
 description: 'Study Materials: Study Questions
 
   William Christian, Visionaries'
-file: /courses/21a-211-magic-witchcraft-and-the-spirit-world-fall-2003/fb2fda5f3295e5ae592854bbe5e51f58_christianvisionaries.pdf
+file: /ol-ocw-studio-app/courses/21a-211-magic-witchcraft-and-the-spirit-world-fall-2003/fb2fda5f3295e5ae592854bbe5e51f58_christianvisionaries.pdf
 file_size: 79567
 file_type: application/pdf
 learning_resource_types: []
