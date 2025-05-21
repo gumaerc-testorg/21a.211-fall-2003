@@ -2,7 +2,7 @@
 content_type: resource
 description: Study Questions Space alien possession, recovered memory,Satanic abuse,
   daycare trials
-file: /ol-ocw-studio-app/courses/21a-211-magic-witchcraft-and-the-spirit-world-fall-2003/a49f229c90b19a6cf1073b6cd1b8a7bd_spacealien.pdf
+file: /courses/21a-211-magic-witchcraft-and-the-spirit-world-fall-2003/a49f229c90b19a6cf1073b6cd1b8a7bd_spacealien.pdf
 file_size: 69019
 file_type: application/pdf
 learning_resource_types: []
